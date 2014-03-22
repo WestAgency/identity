@@ -14,20 +14,32 @@ It's creators Robin and Fredric's dedication for programmering, design and integ
 Brand
 -------
 
-Okay to use:
+### Brand name
 
-Brand name: westerlundh&castelius
+westerlundh&castelius
 
-Nickname both in writing and oral: west.
-
-Company legal name: Westerlundh & Castelius Aktiebolag
-
-
-Super not okay to ~~say & write~~:
+### ~~Super not okay brand name~~
 
 ~~Westerlundh&Castelius~~
 
 ~~westerlundh & castelius~~
+
+### Company legal name
+
+Westerlundh & Castelius Aktiebolag
+
+### ~~Super not okay Company legal name~~
+
+~~Westerlundh&Castelius Aktiebolag~~
+~~Westerlundh & Castelius AB~~
+~~westerlundh&castelius AB~~
+~~Westerlundh&Castelius AB~~
+
+### Nickname
+
+west.
+
+### ~~Super not okay nickname~~
 
 ~~wc~~
 
