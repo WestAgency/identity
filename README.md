@@ -11,35 +11,39 @@ westerlundh&castelius was created for the purpose of being a webproduction compa
 
 It's creators Robin and Fredric's dedication for programmering, design and integraction is the companys core values.
 
-Brand
--------
 
-### Brand name
+Brand name
+-------
 
 westerlundh&castelius
 
-### ~~Super not okay brand name~~
+### Brand name don'ts
 
 ~~Westerlundh&Castelius~~
 
 ~~westerlundh & castelius~~
 
-### Company legal name
+Company legal name
+-------
 
 Westerlundh & Castelius Aktiebolag
 
-### ~~Super not okay Company legal name~~
+### Company legal name don'ts
 
 ~~Westerlundh&Castelius Aktiebolag~~
+
 ~~Westerlundh & Castelius AB~~
+
 ~~westerlundh&castelius AB~~
+
 ~~Westerlundh&Castelius AB~~
 
-### Nickname
+Nickname
+-------
 
 west.
 
-### ~~Super not okay nickname~~
+### Nickname don'ts
 
 ~~wc~~
 
