@@ -1,4 +1,5 @@
-westerlund&castelius identity and it's guidelines
+westerlund&castelius 
+Identity Guidelines
 =============
 
 This repository includes westerlund&castelius identity with guidelines for it's files use.
