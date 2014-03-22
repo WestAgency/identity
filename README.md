@@ -18,9 +18,11 @@ Brand
 ![Alt text](/logo/westerlundh&castelius-logo_black.jpg "")
 ![Alt text](/logo/westerlundh&castelius-logo_white.jpg "")
 
+[]
+
 .jpg
-<a href="https://github.com/westerlundhcastelius/identity/blob/master/logo/westerlundh&castelius-logo_black.jpg">westerlundh&castelius-logo_black.jpg</a>
-<a href="https://github.com/westerlundhcastelius/identity/blob/master/logo/westerlundh&castelius-logo_white.jpg">westerlundh&castelius-logo_white.jpg</a>
+* [.jpg] (https://github.com/westerlundhcastelius/identity/blob/master/logo/westerlundh&castelius-logo_black.jpg">westerlundh&castelius-logo_black.jpg)`
+* [.jpg] (https://github.com/westerlundhcastelius/identity/blob/master/logo/westerlundh&castelius-logo_white.jpg">westerlundh&castelius-logo_white.jpg)
 
 .png
 <a href="https://github.com/westerlundhcastelius/identity/blob/master/logo/westerlundh&castelius-logo_black.png">westerlundh&castelius-logo_black.png</a>
