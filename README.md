@@ -22,6 +22,7 @@ Nickname both in writing and oral: west.
 
 Company legal name: Westerlundh & Castelius Aktiebolag
 
+
 Super not okay to ~~say & write~~:
 
 ~~Westerlundh&Castelius~~
