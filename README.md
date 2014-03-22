@@ -20,13 +20,13 @@ Brand name: westerlundh&castelius`
 Nickname both in writing and oral: west.`
 Company legal name: Westerlundh & Castelius Aktiebolag``
 
-Super not okay to ~~say & write~~:``
+Super not okay to ~~say & write~~:
 
-~~Westerlundh&Castelius~~`
-~~westerlundh & castelius~~`
-~~wc~~`
-~~w&c~~`
-~~we&ca~~`
+~~Westerlundh&Castelius~~
+~~westerlundh & castelius~~
+~~wc~~
+~~w&c~~
+~~we&ca~~
 
 
 
