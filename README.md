@@ -17,7 +17,7 @@ Brand name
 
 westerlundh&castelius
 
-### Brand name don'ts
+### Don'ts
 
 ~~Westerlundh&Castelius~~
 
@@ -28,7 +28,7 @@ Company legal name
 
 Westerlundh & Castelius Aktiebolag
 
-### Company legal name don'ts
+### Don'ts
 
 ~~Westerlundh&Castelius Aktiebolag~~
 
@@ -43,7 +43,7 @@ Nickname
 
 west.
 
-### Nickname don'ts
+### Don'ts
 
 ~~wc~~
 
