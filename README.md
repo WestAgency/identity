@@ -21,8 +21,9 @@ Brand
 []
 
 .jpg
-* [.jpg] (https://github.com/westerlundhcastelius/identity/blob/master/logo/westerlundh&castelius-logo_black.jpg">westerlundh&castelius-logo_black.jpg)`
-* [.jpg] (https://github.com/westerlundhcastelius/identity/blob/master/logo/westerlundh&castelius-logo_white.jpg">westerlundh&castelius-logo_white.jpg)
+[.jpg] (https://github.com/westerlundhcastelius/identity/blob/master/logo/westerlundh&castelius-logo_black.jpg)
+
+
 
 .png
 <a href="https://github.com/westerlundhcastelius/identity/blob/master/logo/westerlundh&castelius-logo_black.png">westerlundh&castelius-logo_black.png</a>
