@@ -56,13 +56,13 @@ west.
 Logo
 -------
 
-![Alt text](/logo/westerlundh&castelius-logo_black_1x1.jpg "")
-![Alt text](/logo/westerlundh&castelius-logo_white_1x1.jpg "")
+![Alt text](/logo/westerlundh&castelius-logo-black-1x1.jpg "")
+![Alt text](/logo/westerlundh&castelius-logo-white-1x1.jpg "")
 
 
 Business Cards
 -------
-![Alt text](/logo/westerlundh&castelius-businesscards-sample.jpg "")
+![Alt text](/cards/westerlundh&castelius-businesscards-sample.jpg "")
 
 
 
