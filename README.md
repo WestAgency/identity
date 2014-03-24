@@ -56,5 +56,5 @@ west.
 Logo
 -------
 
-![Alt text](/logo/westerlundh&castelius-logo_black.jpg "")
-![Alt text](/logo/westerlundh&castelius-logo_white.jpg "")
+![Alt text](/logo/westerlundh&castelius-logo_black_1x1.jpg "")
+![Alt text](/logo/westerlundh&castelius-logo_white_1x1.jpg "")
