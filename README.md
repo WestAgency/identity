@@ -1,7 +1,7 @@
 westerlund&castelius identity
 ============= 
 
-This repository includes westerlund&castelius identity with guidelines for it's files use..
+This repository includes westerlund&castelius identity with guidelines for it's files use.
 
 Background & vision
 -------
