@@ -41,7 +41,7 @@ Westerlundh & Castelius Aktiebolag
 Nickname
 -------
 
-west.
+west
 
 ### Don'ts
 
