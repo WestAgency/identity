@@ -1,8 +1,8 @@
 Identity of West
--------
+=======
 
 Brand name
-=======
+-------
 
 West
 
