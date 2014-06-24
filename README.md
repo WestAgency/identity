@@ -1,11 +1,6 @@
 Identity of West
 =======
 
-Brand name
--------
-
-West
-
 Logo
 -------
 
@@ -24,6 +19,10 @@ West was founded by Robin Westerlundh and Fredric Castelius together with digita
 
 West is a web production agency where it's main core is to team up with ad / creative / digital marketing / design agencies and together create fantastic digital productions by stretching digital possibilities combined with pixel perfect design.
 
+Brand name
+-------
+
+West
 
 Company legal name
 -------
