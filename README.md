@@ -24,13 +24,13 @@ Westerlundh & Castelius Aktiebolag
 Logo
 -------
 
-![Alt text](/logo/westerlundh&castelius-logo-black-1x1.jpg "")
-![Alt text](/logo/westerlundh&castelius-logo-white-1x1.jpg "")
+![Alt text](/logo/west-logo-black-1x1.jpg "")
+![Alt text](/logo/west-logo-white-1x1.jpg "")
 
 
 Business Cards
 -------
-![Alt text](/cards/westerlundh&castelius-businesscards-sample.jpg "")
+![Alt text](/cards/west-businesscards-sample.jpg "")
 
 
 
