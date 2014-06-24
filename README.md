@@ -1,6 +1,3 @@
-Identity of West
-=======
-
 Logo
 -------
 
