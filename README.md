@@ -1,57 +1,25 @@
-westerlund&castelius identity
+identity
 ============= 
 
-This repository includes westerlund&castelius identity with guidelines for it's files use.
+This reposity represents the identity of West and it's guidelines for use.
 
-Background & vision
+
+Background
 -------
-westerlundh&castelius was founded by Robin Westerlundh and Fredric Castelius together with digital marketing agency Be Better Online the 1th of January 2014. 
+West was founded by Robin Westerlundh and Fredric Castelius together with digital marketing agency Be Better Online in the beginning of January in year of 2014. 
 
-westerlundh&castelius was created for the purpose of being a webproduction company with working closly together with creative, ad, design and digital agencies. The companys main core is to deliver awesomly well executed webproductions, where code, design and content all is at it's absolut best. 
-
-It's creators Robin and Fredric's dedication for programmering, design and integration is the companys core values.
+West is a web production agency where it's main core is to team up with ad / creative / digital marketing / design agencies and together create fantastic digital productions by stretching digital possibilities combined with pixel perfect design.
 
 
 Brand name
 -------
 
-westerlundh&castelius
-
-### Don'ts
-
-~~Westerlundh&Castelius~~
-
-~~westerlundh & castelius~~
+West
 
 Company legal name
 -------
 
 Westerlundh & Castelius Aktiebolag
-
-### Don'ts
-
-~~Westerlundh&Castelius Aktiebolag~~
-
-~~Westerlundh & Castelius AB~~
-
-~~westerlundh&castelius AB~~
-
-~~Westerlundh&Castelius AB~~
-
-Nickname
--------
-
-west
-
-### Don'ts
-
-~~wc~~
-
-~~w&c~~
-
-~~we&ca~~
-
-
 
 Logo
 -------
